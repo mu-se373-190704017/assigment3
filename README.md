@@ -1,4 +1,5 @@
 # assigment3
-![89](https://user-images.githubusercontent.com/101062257/159739699-a4772964-2038-48ae-b972-e5568837395f.png)
-![88](https://user-images.githubusercontent.com/101062257/159739670-fa07d918-cbbf-4d34-97e1-433eaca73cff.png)
+![Ekran Görüntüsü (158)](https://user-images.githubusercontent.com/101062257/159740648-55b5ad35-4b46-45ad-8018-359e0fddb9c3.png)
+![Ekran Görüntüsü (159)](https://user-images.githubusercontent.com/101062257/159740668-dd7c1d8c-658d-46f8-b9cf-bf9bfbf563ac.png)
+
 
